@@ -1,0 +1,1 @@
+This project demonstrates a fully responsive web application with a modern tech stack. Features include API development, responsive UI design, robust error handling, and cloud deployment. Built using React.js on the frontend, Node.js/Express.js on the backend, and MongoDB for the database, with Chakra UI for a clean and accessible interface.
